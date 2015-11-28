@@ -7,4 +7,4 @@ http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b0
 第一次修改 add之后再修改
 
 
-create a branch is quick!s
+create a branch is quick & simple
